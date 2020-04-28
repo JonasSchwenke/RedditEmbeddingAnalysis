@@ -10,10 +10,10 @@ More code, data and info on request: jonas.schwenke@uni-konstanz.de
 ### /data
 
 - redditbots.csv 
-scraped from https://www.reddit.com/r/autowikibot/wiki/redditbots
+  - scraped from https://www.reddit.com/r/autowikibot/wiki/redditbots
 
 - top50_bots.csv
-handpicked from complete Reddit sample top 50 busiest authors
+  - handpicked from complete Reddit sample top 50 busiest authors
 
 
 ### /code
