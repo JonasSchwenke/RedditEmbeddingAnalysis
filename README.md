@@ -1,14 +1,14 @@
-# This folder contains the accompanying code and files for the paper: 
-# 'The Meanings of Class in Reddit Comments - An Exploratory Study of Word Embeddings'
+## Accompanying code and files for the paper: 
+## 'The Meanings of Class in Reddit Comments - An Exploratory Study of Word Embeddings'
 
 
 More code, data and info on request: jonas.schwenke@uni-konstanz.de
 
 #####################################################################################
 
-# Directories
+## Directories
 
-# /data
+### /data
 
 - redditbots.csv 
 scraped from https://www.reddit.com/r/autowikibot/wiki/redditbots
@@ -17,7 +17,7 @@ scraped from https://www.reddit.com/r/autowikibot/wiki/redditbots
 handpicked from complete Reddit sample top 50 busiest authors
 
 
-# /code
+### /code
 
 - reddit_word2vec.ipynb
 Accessing, processing and embedding Reddit comments + evaluation
@@ -26,15 +26,15 @@ Accessing, processing and embedding Reddit comments + evaluation
 Some code from Kozlowski et al. (2019): https://github.com/KnowledgeLab/GeometryofCulture/tree/master/code
 + My functions for angle visualization
 
-# /survey_data
+### /survey_data
 
 files from Kozlowski et al. (2019)
 
-# /models
+### /models
 /models can be downloaded here: https://www.dropbox.com/sh/lyb8w1w1di5pozd/AAAkpXtEQW0fyxS-M3DBffD-a?dl=0
 
 AskReddit model, word vectors and vocabulary list
 
-# /evaluation
+### /evaluation
 
 three test files for evaluation, see /code/reddit_word2vec.ipynb for details
