@@ -1,5 +1,5 @@
 ## Accompanying code and files for the paper: 
-## 'The Meanings of Class in Reddit Comments - An Exploratory Study of Word Embeddings'
+## _'The Meanings of Class in Reddit Comments - An Exploratory Study of Word Embeddings'_
 
 
 More code, data and info on request: jonas.schwenke@uni-konstanz.de
