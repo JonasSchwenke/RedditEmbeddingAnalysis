@@ -4,7 +4,6 @@
 
 More code, data and info on request: jonas.schwenke@uni-konstanz.de
 
-#####################################################################################
 
 ## Directories
 
