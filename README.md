@@ -19,11 +19,10 @@ More code, data and info on request: jonas.schwenke@uni-konstanz.de
 ### /code
 
 - reddit_word2vec.ipynb
-Accessing, processing and embedding Reddit comments + evaluation
+  - Accessing, processing and embedding Reddit comments + evaluation
 
 - build_dimensions.R
-Some code from Kozlowski et al. (2019): https://github.com/KnowledgeLab/GeometryofCulture/tree/master/code
-+ My functions for angle visualization
+  - Some code from Kozlowski et al. (2019): https://github.com/KnowledgeLab/GeometryofCulture/tree/master/code + My functions for angle visualization
 
 ### /survey_data
 
